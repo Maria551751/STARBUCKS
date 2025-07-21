@@ -1,7 +1,8 @@
-☕ Landing Page Interativa da Starbucks
+☕ Landing Page Interativa da Starbucks:
+
 Este projeto é uma demonstração prática das minhas habilidades em desenvolvimento frontend, representando um passo importante na minha jornada para construir interfaces web modernas e interativas. Desenvolvido com JavaScript, HTML e CSS puros, esta aplicação recria a experiência visual de uma página da Starbucks, com foco em design responsivo e interatividade dinâmica.
 
-🚀 O Desafio e o Aprendizado
+🚀 O Desafio e o Aprendizado:
 O principal objetivo deste projeto foi solidificar meus conhecimentos nas tecnologias base da web (HTML, CSS, JS), aplicando-os para criar uma experiência de usuário coesa e visualmente agradável. O desafio foi integrar esses três pilares para que funcionassem em harmonia, transformando um design estático em uma interface viva e funcional.
 
 Pontos Chave do Desenvolvimento:
