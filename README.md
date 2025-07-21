@@ -37,4 +37,4 @@ Recursos Externos:
 Google Fonts
 
 🙏 Agradecimentos
-Gostaria de expressar minha gratidão à [Nome da Escola/Curso/Comunidade, se aplicável] pelas aulas de alta qualidade e pelo suporte, que foram fundamentais para a concepção e execução deste projeto. A experiência de aplicar o conhecimento adquirido em um projeto prático e funcional foi incrivelmente valiosa.
+Gostaria de expressar minha gratidão à Dev club pelas aulas de alta qualidade e pelo suporte, que foram fundamentais para a concepção e execução deste projeto. A experiência de aplicar o conhecimento adquirido em um projeto prático e funcional foi incrivelmente valiosa.
